@@ -1,0 +1,26 @@
+📊 Internship Chronicles: Navigating Global Terrorism Data with Power BI
+
+Thrilled to showcase the results of my second project during my internship at InternCareer. 🚀 This time, I delved into the Global Terrorism Data, a dataset with 180,132 rows, dissecting it to extract meaningful insights.
+
+Data Wrangling:
+Trimming down to essentials - Year, Country, Region, Success Rate, Attack Type, Target Type, Target Nationality, Group Name, and Region Name. Cleaned inconsistencies, eliminated blanks, and fine-tuned spellings for precision.
+
+Visual Storytelling:
+Unveiling the narrative through key performance indicators (KPIs):
+- Success Rate by Attack Type
+- Success Rate by Target Type
+- Success Rate by Weapon Type
+- Success Rate by Country
+- Success Rate by Region
+- Success Rate by Group Name
+- Total Attacks by Year
+
+Interactive Features:
+Crafted a dynamic slicer for seamless filtering by country. Highlighted key insights with cards:
+- Most Used Weapon
+- Total Targets
+- Maximum Attacks in a Year
+- Most Deadly Group
+
+Heartfelt gratitude to InternCareer for the invaluable learning opportunities. Looking forward to applying these skills in future endeavors! 🌐
+
